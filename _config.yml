@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+deploy: 
+type: git
+repo: 这里填入你之前在GitHub上创建仓库的完整路径，记得加上 .git
+branch: master
