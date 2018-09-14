@@ -1,5 +1,0 @@
-theme: jekyll-theme-cayman
-deploy: 
-type: git
-repo: https://github.com/cretaceousatlantis/cretaceous.github.io.git
-branch: master
